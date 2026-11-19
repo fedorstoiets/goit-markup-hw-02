@@ -1,6 +1,6 @@
 /* footer.css */
 
-.footer {
+.site-bottom {
   background-color: #2e2f42;
 }
 
@@ -28,6 +28,6 @@
   color: #f4f4fd;
 }
 
-.footer .logo-studio {
+.site-bottom .logo-studio {
   color: #f4f4fd;
 }
