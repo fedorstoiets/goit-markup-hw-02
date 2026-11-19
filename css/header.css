@@ -10,6 +10,13 @@
   color: #4d5ae5;
 }
 
+.logo:hover,
+.logo:focus,
+.logo:hover .logo-studio,
+.logo:focus .logo-studio {
+  color: #404bbf;
+}
+
 .logo-studio {
   color: #2e2f42;
 }
