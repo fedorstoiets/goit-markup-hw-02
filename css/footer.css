@@ -14,13 +14,6 @@
   color: #4d5ae5;
 }
 
-.footer-logo:hover,
-.footer-logo:focus,
-.footer-logo:hover .logo-studio,
-.footer-logo:focus .logo-studio {
-  color: #404bbf;
-}
-
 .footer-text {
   font-size: 16px;
   line-height: 1.5;
@@ -30,4 +23,11 @@
 
 .site-bottom .logo-studio {
   color: #f4f4fd;
+}
+
+.footer-logo:hover,
+.footer-logo:focus,
+.footer-logo:hover .logo-studio,
+.footer-logo:focus .logo-studio {
+  color: #404bbf;
 }
